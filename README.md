@@ -1,20 +1,24 @@
-# Olá! Eu sou a Kauany 👋
+👋 Olá, eu sou a Kauany
 
-🎓 Estudante de Ciência da Computação na UNOESC
+Estudante de Ciência da Computação | Python Developer
 
-💻 Atualmente estudando:
-- Python
-- HTML/CSS
-- Lógica de Programação
-- Estruturas de Dados
+[LinkedIn] [GitHub] [Email]
 
-🚀 Projetos:
-- Sistema Escolar
-- Site Demonstração
+────────────────────
 
-📚 Objetivo:
-Construir soluções úteis enquanto desenvolvo minhas habilidades em programação.
+🧠 Sobre Mim
 
-## Contato
+Texto curto
 
-📧 kauany.katsan@gmail.com
+────────────────────
+
+💻 Tecnologias
+
+Python | HTML | CSS | Git
+
+────────────────────
+
+🚀 Projetos
+
+📚 Sistema Escolar
+🌐 Portfólio****
