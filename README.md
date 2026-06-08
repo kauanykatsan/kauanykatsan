@@ -1,24 +1,59 @@
-👋 Olá, eu sou a Kauany
+<h1 align="center">Olá, eu sou a Kauany 👋</h1>
 
-Estudante de Ciência da Computação | Python Developer
+<h3 align="center">
+Estudante de Ciência da Computação • Desenvolvedora em Formação
+</h3>
 
-[LinkedIn] [GitHub] [Email]
+<p align="center">
+  <a href="SEU_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:SEU_EMAIL">E-mail</a>
+</p>
 
-────────────────────
+---
 
-🧠 Sobre Mim
+## 💜 Sobre mim
 
-Texto curto
+🎓 Estudante de Ciência da Computação na UNOESC
 
-────────────────────
+💻 Atualmente estudando Python, Desenvolvimento Web e Estruturas de Dados
 
-💻 Tecnologias
+🚀 Desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio
 
-Python | HTML | CSS | Git
+📚 Sempre buscando aprender novas tecnologias e boas práticas de programação
 
-────────────────────
+---
 
-🚀 Projetos
+## 🛠️ Tecnologias
 
-📚 Sistema Escolar
-🌐 Portfólio****
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📚 Sistema Escolar
+Sistema desenvolvido para gerenciamento de alunos, notas e informações acadêmicas.
+
+### 🌐 Portfólio Web
+Projeto voltado para apresentação profissional e divulgação dos meus trabalhos.
+
+---
+
+## 📈 Estatísticas
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanykatsan&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanykatsan&layout=compact" />
+</p>
+
+---
+
+## 📫 Contato
+
+📧 seuemail@gmail.com
+
+💼 LinkedIn: linkedin.com/in/seu-perfil
+
+🐙 GitHub: github.com/kauanykatsan
