@@ -5,7 +5,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 </h3>
 
 <p align="center">
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/?skipRedirect=true)">LinkedIn</a> •
+  <a href="(https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/?skipRedirect=true)">LinkedIn</a> •
   <a href="mailto:kauany.katsan@gmail.com">E-mail</a>
 </p>
 
