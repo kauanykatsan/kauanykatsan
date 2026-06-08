@@ -34,7 +34,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 Sistema desenvolvido para gerenciamento de alunos, notas e informações acadêmicas.
 
 ### 🌐 Portfólio Web
-Projeto voltado para apresentação profissional e divulgação do projeto do TechStar Startup Weekend
+Projeto voltado para apresentação profissional e divulgação do projeto da TechStar Startup Weekend
 
 ---
 
