@@ -33,7 +33,7 @@ Estudante de Ciência da Computação
 ### 📚 Sistema Escolar
 Sistema desenvolvido em Python para gerenciamento de alunos, notas e informações acadêmicas.
 
-### 🌐 Apresentação Web TSW
+### 🌐 Apresentacao Web TSW
 Landing page criada para apresentação e divulgação do projeto desenvolvido durante o TechStars Startup Weekend.
 
 ---
