@@ -5,8 +5,8 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 </h3>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL">E-mail</a>
+  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/?skipRedirect=true)">LinkedIn</a> •
+  <a href="mailto:kauany.katsan@gmail.com">E-mail</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,github,vscode" />
 </p>
 
 ---
