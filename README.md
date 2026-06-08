@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Kauany 👋</h1>
+<h1 align="center">Olá, eu sou Kauany Katsan 👋</h1>
 
 <h3 align="center">
 Estudante de Ciência da Computação • Desenvolvedora em Formação
@@ -35,15 +35,6 @@ Sistema desenvolvido para gerenciamento de alunos, notas e informações acadêm
 
 ### 🌐 Portfólio Web
 Projeto voltado para apresentação profissional e divulgação do projeto do TechStar Startup Weekend
-
----
-
-## 📈 Estatísticas
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanykatsan&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanykatsan&layout=compact" />
-</p>
 
 ---
 
