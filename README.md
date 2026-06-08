@@ -19,7 +19,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Aualmente estudando
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,github,vscode" />
