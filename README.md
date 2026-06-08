@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Kauany Katsan 👋</h1>
 
 <h3 align="center">
-Estudante de Ciência da Computação • Desenvolvedora em Formação
+Estudante de Ciência da Computação
 </h3>
 
 
@@ -31,17 +31,17 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 
 
 ### 📚 Sistema Escolar
-Sistema desenvolvido para gerenciamento de alunos, notas e informações acadêmicas.
+Sistema desenvolvido em Python para gerenciamento de alunos, notas e informações acadêmicas.
 
-### 🌐 Portfólio Web
-Projeto voltado para apresentação profissional e divulgação do projeto da TechStar Startup Weekend
+### 🌐 TechStars Startup Weekend 
+Landing page criada para apresentação e divulgação do projeto desenvolvido durante o TechStars Startup Weekend.
 
 ---
 
 ## 📫 Contato
 
- Email: kauany.katsan@gamil.com
+📧Email: kauany.katsan@gmail.com
 
- LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
+💼LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
 
 
