@@ -29,6 +29,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 
 ## 🚀 Projetos em destaque
 
+
 ### 📚 Sistema Escolar
 Sistema desenvolvido para gerenciamento de alunos, notas e informações acadêmicas.
 
