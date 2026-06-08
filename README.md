@@ -26,7 +26,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 Sistema desenvolvido para gerenciamento de alunos, notas e informações acadêmicas.
 
 ### 🌐 Portfólio Web
-Projeto voltado para apresentação profissional e divulgação dos meus trabalhos.
+Projeto voltado para apresentação profissional e divulgação do projeto do TechStar Startup Weekend
 
 ---
 
@@ -52,8 +52,8 @@ Projeto voltado para apresentação profissional e divulgação dos meus trabalh
 
 ## 📫 Contato
 
-📧 seuemail@gmail.com
+📧 kauany.katsan@gamil.com
 
-💼 LinkedIn: linkedin.com/in/seu-perfil
+💼 LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
 
 🐙 GitHub: github.com/kauanykatsan
