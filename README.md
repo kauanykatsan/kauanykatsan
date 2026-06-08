@@ -9,13 +9,13 @@ Estudante de Ciência da Computação • Desenvolvedora em Formação
 
 ## 💜 Sobre mim
 
-🎓 Estudante de Ciência da Computação na UNOESC
+ Estudante de Ciência da Computação na UNOESC
 
-💻 Atualmente estudando Python, Desenvolvimento Web e Estruturas de Dados
+ Atualmente estudando Python, Desenvolvimento Web e Estruturas de Dados
 
-🚀 Desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio
+ Desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio
 
-📚 Sempre buscando aprender novas tecnologias e boas práticas de programação
+ Sempre buscando aprender novas tecnologias e boas práticas de programação
 
 ---
 
@@ -40,8 +40,8 @@ Projeto voltado para apresentação profissional e divulgação do projeto do Te
 
 ## 📫 Contato
 
-📧 kauany.katsan@gamil.com
+ Email: kauany.katsan@gamil.com
 
-💼 LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
+ LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
 
-🐙 GitHub: github.com/kauanykatsan
+
