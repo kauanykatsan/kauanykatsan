@@ -22,7 +22,7 @@ Estudante de Ciência da Computação
 ## 🛠️ Atualmente estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,vscode" />
 </p>
 
 ---
