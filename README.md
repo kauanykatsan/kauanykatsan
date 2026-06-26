@@ -1,47 +1,33 @@
-<h1 align="center">Olá, eu sou Kauany Katsan 👋</h1>
+<h1 align="center">Hi, I'm Kauany Katsan 👋</h1>
 
-<h3 align="center">
-Estudante de Ciência da Computação
-</h3>
+<h3 align="center"> Computer Science Student </h3>
 
+💜 About Me
 
----
+🎓 Computer Science student at UNOESC University.
 
-## 💜 Sobre mim
+💻 Currently learning Python, Web Development, and Data Structures.
 
- Estudante de Ciência da Computação na UNOESC
+🚀 Building projects to improve my skills and develop my portfolio.
 
- Atualmente estudando Python, Desenvolvimento Web e Estruturas de Dados
+📚 Always looking to learn new technologies and software development best practices.
 
- Desenvolvendo projetos para aprimorar minhas habilidades e construir meu portfólio
+🛠️ Currently Learning
 
- Sempre buscando aprender novas tecnologias e boas práticas de programação
+<p> <img src="https://skillicons.dev/icons?i=python,html,vscode" /> </p>
 
----
+🚀 Featured Projects
+📚 School Management System
 
-## 🛠️ Atualmente estudando
+A Python-based system developed for managing students, grades, and academic information.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,vscode" />
-</p>
+🌐 TSW Web Presentation
 
----
+A landing page created to present and showcase the project developed during the TechStars Startup Weekend.
 
-## 🚀 Projetos em destaque
+📫 Contact
 
+📧 Email: kauany.katsan@gmail.com
 
-### 📚 Sistema Escolar
-Sistema desenvolvido em Python para gerenciamento de alunos, notas e informações acadêmicas.
-
-### 🌐 Apresentacao Web TSW
-Landing page criada para apresentação e divulgação do projeto desenvolvido durante o TechStars Startup Weekend.
-
----
-
-## 📫 Contato
-
-📧Email: kauany.katsan@gmail.com
-
-💼LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
-
+💼 LinkedIn: https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/
 
