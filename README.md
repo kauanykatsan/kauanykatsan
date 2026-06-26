@@ -18,13 +18,11 @@ Building projects and learning every day.
 
 ## About Me
 
-- 🎓 Computer Science Student at UNOESC
-- 💻 Currently learning Python, Web Development, and Data Structures
-- 🚀 Building projects and developing my portfolio
-- 🌱 Always learning and improving my programming skills
-    ]
-```
-```
+-  Computer Science Student at UNOESC
+-  Currently learning Python, Web Development, and Data Structures
+-  Building projects and developing my portfolio
+-  Always learning and improving my programming skills
+  
 ## Tech Stack
 
 <p>
