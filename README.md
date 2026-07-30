@@ -36,7 +36,7 @@ Building projects and learning every day.
 Python-based system for managing students, grades, and academic information.
 
 ### TSW Web Presentation
-Landing page created to present the project developed during the TechStars Startup Weekend.
+Landing page developed to showcase our TechStars Startup Weekend project, recognized with an Honorable Mention in Cybersecurity.
 
 ### Python Exercises - UNOESC
 Repository containing exercises and activities developed during my degree.
