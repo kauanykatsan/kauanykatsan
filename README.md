@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, Kauany Katsan! 
+# 👋 Olá, eu sou Kauany Katsan! 
 
 ### 💻 Computer Science Student
 
