@@ -7,7 +7,7 @@
 
 </div>
 
-##  In in learning
+##  Currently Learning
 
 <div align="center">
   
@@ -24,25 +24,11 @@
 
 ---
 
-<h2> GitHu Statisticsb</h2>
+<h2> GitHub Statistics</h2>
 
-<div align="center">
-
-
-
-<img
-src="https://github-readme-stats.shion.dev/api/top-langs?username=kauanykatsan&layout=compact&hide_border=true&bg_color=0D0D12&title_color=E85D9E&text_color=E8E8EC"
-height="180"
-alt="Linguagens mais usadas"
-/>
-
-</div>
-
-##  GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kauanykatsan&theme=dark&hide_border=true&background=0D0D12&ring=E91E63&fire=FF6FAE&currStreakLabel=E85D9E&sideLabels=E8E8EC&dates=888888"/>
+<p align="center">
+<img width="37%" src="https://github-readme-stats.shion.dev/api/top-langs?username=kauanykatsan&layout=compact&hide_border=true&bg_color=0D0D12&title_color=E8E8EC"&text_color=E8E8EC" alt="Linguagens mais usadas">&nbsp;&nbsp;&nbsp;&nbsp;<img width="55%" src="https://streak-stats.demolab.com?user=kauanykatsan&theme=dark&hide_border=true&background=0D0D12&ring=9D174D&fire=F2C14E&currStreakLabel=E8E8EC"&sideLabels=E8E8EC&dates=888888" alt="GitHub Streak">
+</p>
 
 </div>
 
@@ -61,5 +47,5 @@ alt="Linguagens mais usadas"
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D174D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
-[![Email](https://img.shields.io/badge/Email-E91E63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauany.katsan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF66C4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauanykatsan)
+[![Email](https://img.shields.io/badge/Email-9D174D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauany.katsan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9D174D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauanykatsan)
