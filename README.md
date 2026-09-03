@@ -1,33 +1,30 @@
 <div align="center">
+  
 
-# 👋 Hi, I'm Kauany Katsan! 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E315C,50:E85D9E,100:FF6FAE&height=250&section=header&text=👋Hi,%20I'm%20Kauany%20Katsan&fontSize=25&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Student&desliza=35&descAlingnY=40"/>
 
-### 💻 Computer Science Student
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E315C,50:E85D9E,100:FF6FAE&height=120&section=header&text=Welcome%20to%20my%20profile&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
----
-
-## 🛠️ In in learning
+##  In in learning
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E4BE32?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C">
 
 
 </div>
 
 ---
 
-<h2>📊 GitHu Statisticsb</h2>
+<h2> GitHu Statisticsb</h2>
 
 <div align="center">
 
@@ -41,7 +38,7 @@ alt="Linguagens mais usadas"
 
 </div>
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 
