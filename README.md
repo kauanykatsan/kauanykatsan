@@ -48,4 +48,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D174D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-katsan-dos-santos-382998263/)
 [![Email](https://img.shields.io/badge/Email-9D174D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauany.katsan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-9D174D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauanykatsan)
