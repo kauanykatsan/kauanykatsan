@@ -1,7 +1,7 @@
 <div align="center">
   
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E315C,50:E85D9E,100:FF6FAE&height=250&section=header&text=👋Hi,%20I'm%20Kauany%20Katsan&fontSize=25&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Student&desliza=35&descAlingnY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1F52,25:A8326F,50:D94F88,75:EE8A72,100:F2C14E&height=250&section=header&text=Kauany%20Katsan&fontSize=47&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Student&desliza=35&descAlingnY=40"/>
 
 
 
